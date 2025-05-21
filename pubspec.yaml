@@ -1,0 +1,62 @@
+name: arop
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Icons
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.3
+
+  # State Management
+  flutter_riverpod: ^2.5.1
+  
+
+  # Networking
+  dio: ^5.4.1
+  retrofit: ^4.1.0
+
+  # JSON Serialization
+  json_annotation: ^4.9.0
+
+  # Secure Storage for Tokens
+  flutter_secure_storage: ^9.0.0
+
+  # Freezed for Data Classes & Immutability
+  freezed_annotation: ^2.4.1
+
+  # Logger for debugging API calls
+  logger: ^2.0.2+1
+
+  # Path Provider (in case you need local storage later)
+  path_provider: ^2.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+  # Code Generators
+  build_runner: ^2.4.14
+  json_serializable: ^6.8.0
+  retrofit_generator: ^9.1.5
+  freezed: ^2.5.7
+  riverpod_generator: ^2.6.3
+  
+  file_picker: ^10.1.2
+  
+
+flutter:
+  uses-material-design: true
+
+  # Add any assets you need here
+  # assets:
+  #   - assets/images/
