@@ -41,8 +41,12 @@ A Flutter project integrating multiple APIs with Riverpod state management, feat
 
 Version 0
 
-https://github.com/user-attachments/assets/a43f08e6-3348-4189-bc43-f9f280f25fd7
+https://github.com/user-attachments/assets/d9042e72-a07d-40d3-ac92-f9c451d5e79b
 
 Version 1
 
-https://github.com/user-attachments/assets/d9042e72-a07d-40d3-ac92-f9c451d5e79b
+
+
+https://github.com/user-attachments/assets/a43f08e6-3348-4189-bc43-f9f280f25fd7
+
+
